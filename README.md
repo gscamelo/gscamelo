@@ -26,7 +26,6 @@
 <a href="https://www.wireshark.org/" target="_blank"> <img src="https://www.wireshark.org/assets/images/favicon.ico" alt="Wireshark" width="40" height="40"/> </a> 
 
 ![](https://komarev.com/ghpvc/?username=gscamelo)
-![](https://komarev.com/ghpvc/?username=gscamelo](https://github-readme-stats.vercel.app/api?username=gscamelo&show_icons=true&locale=en))
 <h3 align="left">Github Stats </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gscamelo"/></p>
   
