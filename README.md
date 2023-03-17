@@ -4,8 +4,8 @@
 - 🔭 I’m currently working as Security Team Leader
 - 🌱 I’m currently learning Embedded Devices Pentest, Binary Exploitation and Blockchains
 - 👯 I’m looking to collaborate on CTF's and CyberSecurity projects
-- 💬 Ask me about CyberSecurity, Linux, Bash scripting, C#, Python and JavaScript!
 - Certifications: [Offsec](https://www.credential.net/profile/gilsoncamelo785610/wallet) {OSCP,old OSCE, OSWP, OSWE, OSED, OSEP, OSCE3}
+- 💬 Ask me about CyberSecurity, Linux, Bash scripting, C#, Python and JavaScript!
 - 📫 How to reach me: [E-mail](mailto:gilsonscamelo@gmail.com?subject=[GitHub]%20Source%20Readme) |  [LinkedIn](https://www.linkedin.com/in/gilsoncamelo)
 - 😄 Pronouns: he/him/his
 
