@@ -5,8 +5,10 @@
 - 🌱 I’m currently learning Embedded Devices Pentest, Binary Exploitation and Blockchains
 - 👯 I’m looking to collaborate on CTF's and CyberSecurity projects
 - 💬 Ask me about CyberSecurity, Linux, Bash scripting, C#, Python and JavaScript!
+- Certifications: [Offsec](https://www.credential.net/profile/gilsoncamelo785610/wallet) {OSCP,old OSCE, OSWP, OSWE, OSED, OSEP, OSCE3}
 - 📫 How to reach me: [E-mail](mailto:gilsonscamelo@gmail.com?subject=[GitHub]%20Source%20Readme) |  [LinkedIn](https://www.linkedin.com/in/gilsoncamelo)
 - 😄 Pronouns: he/him/his
+
 
 <h3 align="left">Languages and Tools:</h3>
 </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
